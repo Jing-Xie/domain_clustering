@@ -15,6 +15,7 @@
 
 You should be able to see results that similar to this:
 
+`
 Cluster #  0
 mailserv.venafi.com
 
@@ -33,3 +34,4 @@ Cluster #  4
 www1linux.venafi.com
 www2linux.venafi.com
 www3linux.venafi.com
+`
