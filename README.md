@@ -5,6 +5,7 @@
 
 * clone this repo and cd to it, and then activate your virtualenv
 `$ virtualenv .`
+`$ source bin/activate`
 
 * Install dependency libraries
 `$ pip install -r requirements.txt`
