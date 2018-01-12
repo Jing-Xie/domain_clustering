@@ -1,0 +1,3 @@
+python-Levenshtein
+stemming
+nltk
